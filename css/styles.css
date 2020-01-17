@@ -16,3 +16,8 @@ header{
  h1{
    text-align: center;
  }
+
+ .message{
+   border: 1px black;
+   margin: 3em auto;
+ }
