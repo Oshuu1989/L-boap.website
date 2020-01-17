@@ -1,0 +1,15 @@
+body {
+  color:whitesmoke;
+  font-family:Verdana;
+  background-color: black;
+}
+
+.home {
+   background-color:black;
+  width: 400;
+}
+
+h1{
+  margin-left: auto;
+  margin-right: auto;
+}
