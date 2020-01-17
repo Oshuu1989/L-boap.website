@@ -16,8 +16,17 @@ header{
  h1{
    text-align: center;
  }
-
- .message{
-   border: 1px black;
-   margin: 3em auto;
+ .sentence{
+   border: 1px solid white;
+   margin:  auto;
+   height: 450px;
+   padding: 10px;
+   color:white;
  }
+
+ .Message{
+  display: flex;
+  align-items: stretch;
+ }
+
+ 
