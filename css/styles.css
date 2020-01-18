@@ -29,4 +29,31 @@ header{
   align-items: stretch;
  }
 
+ .Header{
+   display: flex;
+   align-items: stretch;
+   
+ }
  
+ .運営{
+  border: 1px solid white;
+  margin:  auto;
+  height: 60px;
+  padding: 5px;
+  color:white;
+}
+
+.挨拶{
+  border: 1px solid white;
+  margin:  auto;
+  height: 60px;
+  padding: 5px;
+  color:white;
+}
+.会社概要{
+  border: 1px solid white;
+  margin:  auto;
+  height: 60px;
+  padding: 5px;
+  color:white;
+}
