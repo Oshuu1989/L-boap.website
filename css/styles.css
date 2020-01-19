@@ -1,4 +1,3 @@
-
 p{
   padding: 0;
   margin: 0;
@@ -107,8 +106,6 @@ header{
     width: 400;
   }
   
-
-
   .メッセ{
     border: 1px solid;
   }
@@ -123,30 +120,31 @@ header{
     margin-right: auto;
   }
 
-  .table-simple .table-simple-row {
-    border-top: 1px solid #eee;
-  }
+h1{
+  margin-left: auto;
+  margin-right: auto;
+}
 
-  .table-simple{
-   width: 100%;
-  }
+.table-simple{
+ width: 100%;
+}
 
-  table{
-    display: table;
-    border-collapse: separate;
-    border-spacing: 10%;
-  }
+table{
+  display: table;
+  border-collapse: separate;
+  border-spacing: 10%;
+}
 
-  td{
-    margin: 0px;
-    padding: 5px;
-    border: 10px;
-    font-size: 85%;
-    vertical-align: baseline;
-  }
+.table-row{
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+  font-size: 85%;
+  vertical-align: baseline;
+}
 
-  li{
-    margin: 0px;
-    padding: 5px;
-    border: 10px;
-  }
+.table-column-project{
+  margin: 0px;
+  padding: 5px;
+  border: 10px;
+}
