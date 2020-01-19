@@ -59,8 +59,7 @@ h3{
 }
  
 .messageLink{
-  font-size:20px ;
-  border: 5px solid white;
+  font-size:25px ;
   margin:  auto;
   height: auto;
   width: auto;
@@ -69,8 +68,7 @@ h3{
 }
 
 .profileLink{
-  font-size:20px ;
-  border: 5px solid white;
+  font-size:25px ;
   margin:  auto;
   height: auto;
   width: auto;
@@ -83,8 +81,7 @@ h3{
 }
 
 .memberLink{
-  font-size:20px ;
-  border: 5px solid white;
+  font-size:25px ;
   margin:  auto;
   height: auto;
   width: auto;
@@ -93,7 +90,7 @@ h3{
 }
 
 .message{
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .messageDetails{
@@ -111,7 +108,7 @@ h3{
 }
 
 .profile{
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .profileDetails{
@@ -136,13 +133,8 @@ h3{
   text-align: center
 }
 
-.table-column-project {
- text-align: center;
- border: 2px solid white;
-}
-
 .history{
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .ul-simple{
@@ -166,7 +158,7 @@ h3{
 }
 
 .memeber{
-  margin-top: 300px;
+  margin-top: 400px;
 }
 
 .table-column-project{
