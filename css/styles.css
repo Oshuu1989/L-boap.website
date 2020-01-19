@@ -37,6 +37,7 @@
   }
 
   li{
+  .table-column-project{
     margin: 0px;
     padding: 5px;
     border: 10px;
