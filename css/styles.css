@@ -57,3 +57,36 @@ header{
   padding: 5px;
   color:white;
 }
+
+.one{
+  border: 1px solid white;
+  margin: auto;
+  height: 260px;
+  padding: 5px;
+  color:white;
+}
+
+.two{
+  border: 1px solid white;
+  margin: auto;
+  height: 260px;
+  padding: 5px;
+  color:white;
+}
+
+.three{
+  border: 1px solid white;
+  margin:  auto;
+  height: 260px;
+  padding: 10px;
+  color:white;
+}
+
+.four{
+  border: 1px solid white;
+  margin:  auto;
+  height: 260px;
+  padding: 10px;
+  color:white;
+}
+
