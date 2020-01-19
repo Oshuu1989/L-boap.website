@@ -1,147 +1,172 @@
-p{
-  padding: 0;
-  margin: 0;
+body{
+  display: table;
+  color:whitesmoke;
+  font-family:Verdana;
+  background-color: black;
+  margin: 50px;
 }
 
+h1{
+ text-align: center;
+ margin:50px auto 50px auto;
+}
+
+h3{
+ text-align: center;
+}
 
 .home {
-   background-color:black;
+  background-color:black;
+  width: 400;
+}
+.title{
+  font-size: 500%;
+  margin-bottom: 0;
+}
+
+.L-Boap{
+  font-size: 200%;
+  margin: 20px;
+}
+
+.description{
+  margin: 100px;
+  font-style: oblique;
+}
+
+.header{
+  text-align: center;
+  padding: 70px;
+  border:10px white;
+  margin: 50px;
+}
+
+.home {
+  background-color:black;
+  border: 2px solid white;
   width: 400;
 }
 
-header{
-  text-align: center;
+.Message{
+  display: flex;
+  align-items: last baseline;
 }
- h1{
-   text-align: center;
- }
- .sentence{
-   border: 1px solid white;
-   margin:  auto;
-   height: 450px;
-   padding: 10px;
-   color:white;
- }
 
- .Message{
+.home2{
   display: flex;
   align-items: stretch;
- }
-
- .Header{
-   display: flex;
-   align-items: stretch;
-   
- }
+  margin-top: 100px;
+}
  
- .運営{
-  border: 1px solid white;
+.messageLink{
+  font-size:20px ;
+  border: 5px solid white;
   margin:  auto;
   height: auto;
   width: auto;
-  padding: 5px;
+  padding: 10px 80px 10px 80px;
   color:white;
 }
 
-.挨拶{
-  border: 1px solid white;
+.profileLink{
+  font-size:20px ;
+  border: 5px solid white;
   margin:  auto;
   height: auto;
-  height: auto;
-  padding: 5px;
+  width: auto;
+  padding: 10px 80px 10px 80px;
   color:white;
 }
-.会社概要{
-  border: 1px solid white;
+
+.kotei{
+  display: table;
+}
+
+.memberLink{
+  font-size:20px ;
+  border: 5px solid white;
   margin:  auto;
   height: auto;
-  height:auto;
-  padding: 5px;
-  color:white;
-}
-.one{
-  text-align: center;
-  border: 1px solid white;
-  margin: auto;
-  height: 270px;
-  padding: 5px;
+  width: auto;
+  padding: 10px 80px 10px 80px;
   color:white;
 }
 
-.two{
-  border: 1px solid white;
-  margin: auto;
-  height: 270px;
-  padding: 5px;
-  color:white;
+.message{
+  margin-top: 300px;
 }
 
-.three{
-  border: 1px solid white;
-  margin:  auto;
-  height: 270px;
-  padding: 10px;
-  color:white;
+.messageDetails{
+  display: flex;
 }
 
-.four{
-  border: 1px solid white;
-  margin:  auto;
-  height: 270px;
-  padding: 10px;
-  color:white;
+.sentence{
+ border: 10px solid white;
+ padding: 10px;
+ color:white;
 }
 
+.yukari{
+  font-size: 75%;
+}
 
+.profile{
+  margin-top: 300px;
+}
 
-   body {
-    color:whitesmoke;
-    font-family:Verdana;
-    background-color: black;
-  }
-
-
-  .home {
-     background-color:black;
-    width: 400;
-  }
-  
-  .メッセ{
-    border: 1px solid;
-  }
-
-  .写真＆挨拶{
-    display: flex;
-    padding: 3px;
-    align-items: stretch;
-  }
-  h1{
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-h1{
-  margin-left: auto;
-  margin-right: auto;
+.profileDetails{
+  margin-top: 100px;
 }
 
 .table-simple{
  width: 100%;
+ table-layout: fixed;
+ margin: auto;
 }
 
-table{
-  display: table;
-  border-collapse: separate;
-  border-spacing: 10%;
-}
-
-.table-row{
-  margin: 10px;
+.table-column {
+  background-color: rgb(128, 120, 105);
   padding: 10px;
-  border: 10px;
-  font-size: 85%;
-  vertical-align: baseline;
+  border: 2px solid white;
 }
+
+.table-description{
+  padding: 10px;
+  border: 2px solid white;
+  text-align: center
+}
+
+.table-column-project {
+ text-align: center;
+ border: 2px solid white;
+}
+
+.history{
+  margin-top: 300px;
+}
+
+.ul-simple{
+  margin: 50px;
+}
+
+.ulojisan{
+  margin: 20px;
+}
+
+.ul-column{
+  margin: 20px;
+  font-size: 90%;
+}
+
+.CEO{
+  font-style: oblique;
+  margin: 0 0 30px 15px;
+  font-size: 13px;
+  text-align: center;
+}
+
+.memeber{
+  margin-top: 300px;
 
 .table-column-project{
   margin: 0px;
