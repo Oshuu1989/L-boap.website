@@ -9,6 +9,17 @@
     width: 400;
   }
   
+
+
+  .メッセ{
+    border: 1px solid;
+  }
+
+  .写真＆挨拶{
+    display: flex;
+    padding: 3px;
+    align-items: stretch;
+  }
   h1{
     margin-left: auto;
     margin-right: auto;
