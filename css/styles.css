@@ -15,12 +15,13 @@ header{
  h1{
    text-align: center;
  }
- .sentence{
-   border: 1px solid white;
-   margin:  auto;
-   height: 450px;
-   padding: 10px;
-   color:white;
+
+.sentence{
+ border: 1px solid white;
+ margin:  auto;
+ height: 450px;
+ padding: 10px;
+ color:white;
  }
 
  .Message{
@@ -51,6 +52,7 @@ header{
   padding: 5px;
   color:white;
 }
+
 .会社概要{
   border: 1px solid white;
   margin:  auto;
@@ -59,6 +61,7 @@ header{
   padding: 5px;
   color:white;
 }
+
 .one{
   text-align: center;
   border: 1px solid white;
@@ -94,31 +97,32 @@ header{
 
 
 
-   body {
-    color:whitesmoke;
-    font-family:Verdana;
-    background-color: black;
-  }
+body {
+  color:whitesmoke;
+  font-family:Verdana;
+  background-color: black;
+}
 
 
-  .home {
-     background-color:black;
-    width: 400;
-  }
+.home {
+  background-color:black;
+  width: 400;
+}
   
-  .メッセ{
-    border: 1px solid;
-  }
+.メッセ{
+  border: 1px solid;
+}
 
-  .写真＆挨拶{
-    display: flex;
-    padding: 3px;
-    align-items: stretch;
-  }
-  h1{
-    margin-left: auto;
-    margin-right: auto;
-  }
+.写真＆挨拶{
+  display: flex;
+  padding: 3px;
+  align-items: stretch;
+}
+
+h1{
+  margin-left: auto;
+  margin-right: auto;
+}
 
 h1{
   margin-left: auto;
@@ -143,8 +147,16 @@ table{
   vertical-align: baseline;
 }
 
-.table-column-project{
+.table-column .table-column-project{
+  margin: 10%;
+  padding: 5%;
+  border: 10%;
+}
+
+.CEO{
+  font-stretch: ultra-condensed;
   margin: 0px;
-  padding: 5px;
+  padding: 10px;
   border: 10px;
 }
+
