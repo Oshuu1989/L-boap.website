@@ -13,3 +13,32 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  .table-simple .table-simple-row {
+    border-top: 1px solid #eee;
+  }
+
+  .table-simple{
+   width: 100%;
+  }
+
+  table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10%;
+    border-color:white;
+  }
+
+  td{
+    margin: 0px;
+    padding: 5px;
+    border: 10px;
+    font-size: 85%;
+    vertical-align: baseline;
+  }
+
+  li{
+    margin: 0px;
+    padding: 5px;
+    border: 10px;
+  }
