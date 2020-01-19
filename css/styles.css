@@ -1,8 +1,105 @@
+p{
+  padding: 0;
+  margin: 0;
+}
+
+
+.home {
+   background-color:black;
+  width: 400;
+}
+
+header{
+  text-align: center;
+}
+ h1{
+   text-align: center;
+ }
+ .sentence{
+   border: 1px solid white;
+   margin:  auto;
+   height: 450px;
+   padding: 10px;
+   color:white;
+ }
+
+ .Message{
+  display: flex;
+  align-items: stretch;
+ }
+
+ .Header{
+   display: flex;
+   align-items: stretch;
+   
+ }
+ 
+ .運営{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  width: auto;
+  padding: 5px;
+  color:white;
+}
+
+.挨拶{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  height: auto;
+  padding: 5px;
+  color:white;
+}
+.会社概要{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  height:auto;
+  padding: 5px;
+  color:white;
+}
+.one{
+  text-align: center;
+  border: 1px solid white;
+  margin: auto;
+  height: 270px;
+  padding: 5px;
+  color:white;
+}
+
+.two{
+  border: 1px solid white;
+  margin: auto;
+  height: 270px;
+  padding: 5px;
+  color:white;
+}
+
+.three{
+  border: 1px solid white;
+  margin:  auto;
+  height: 270px;
+  padding: 10px;
+  color:white;
+}
+
+.four{
+  border: 1px solid white;
+  margin:  auto;
+  height: 270px;
+  padding: 10px;
+  color:white;
+}
+
+
+
    body {
     color:whitesmoke;
     font-family:Verdana;
     background-color: black;
   }
+
 
   .home {
      background-color:black;
@@ -23,30 +120,31 @@
     margin-right: auto;
   }
 
-  .table-simple .table-simple-row {
-    border-top: 1px solid #eee;
-  }
+h1{
+  margin-left: auto;
+  margin-right: auto;
+}
 
-  .table-simple{
-   width: 100%;
-  }
+.table-simple{
+ width: 100%;
+}
 
-  table{
-    display: table;
-    border-collapse: separate;
-    border-spacing: 10%;
-  }
+table{
+  display: table;
+  border-collapse: separate;
+  border-spacing: 10%;
+}
 
-  td{
-    margin: 0px;
-    padding: 5px;
-    border: 10px;
-    font-size: 85%;
-    vertical-align: baseline;
-  }
+.table-row{
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+  font-size: 85%;
+  vertical-align: baseline;
+}
 
-  li{
-    margin: 0px;
-    padding: 5px;
-    border: 10px;
-  }
+.table-column-project{
+  margin: 0px;
+  padding: 5px;
+  border: 10px;
+}
