@@ -167,4 +167,29 @@ h3{
 
 .memeber{
   margin-top: 300px;
+
+.table-column-project{
+  margin: 0px;
+  padding: 5px;
+  border: 10px;
+}
+
+.memberone{
+  display: flex;
+  align-items: stretch;
+}
+
+.membertwo{
+  display: flex;
+  align-items: stretch;
+}
+
+.memberthree{
+  display: flex;
+  align-items: stretch;
+}
+
+.memberfour{
+  display: flex;
+  align-items: stretch;
 }
