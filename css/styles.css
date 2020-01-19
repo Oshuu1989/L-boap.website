@@ -1,8 +1,105 @@
-body {
-  color:whitesmoke;
-  font-family:Verdana;
-  background-color: black;
+p{
+  padding: 0;
+  margin: 0;
 }
+
+
+.home {
+   background-color:black;
+  width: 400;
+}
+
+header{
+  text-align: center;
+}
+ h1{
+   text-align: center;
+ }
+ .sentence{
+   border: 1px solid white;
+   margin:  auto;
+   height: 450px;
+   padding: 10px;
+   color:white;
+ }
+
+ .Message{
+  display: flex;
+  align-items: stretch;
+ }
+
+ .Header{
+   display: flex;
+   align-items: stretch;
+   
+ }
+ 
+ .運営{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  width: auto;
+  padding: 5px;
+  color:white;
+}
+
+.挨拶{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  height: auto;
+  padding: 5px;
+  color:white;
+}
+.会社概要{
+  border: 1px solid white;
+  margin:  auto;
+  height: auto;
+  height:auto;
+  padding: 5px;
+  color:white;
+}
+.one{
+  text-align: center;
+  border: 1px solid white;
+  margin: auto;
+  height: 270px;
+  padding: 5px;
+  color:white;
+}
+
+.two{
+  border: 1px solid white;
+  margin: auto;
+  height: 270px;
+  padding: 5px;
+  color:white;
+}
+
+.three{
+  border: 1px solid white;
+  margin:  auto;
+  height: 270px;
+  padding: 10px;
+  color:white;
+}
+
+.four{
+  border: 1px solid white;
+  margin:  auto;
+  height: 270px;
+  padding: 10px;
+  color:white;
+}
+
+
+
+   body {
+    color:whitesmoke;
+    font-family:Verdana;
+    background-color: black;
+  }
+
 
   .home {
      background-color:black;
