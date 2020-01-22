@@ -18,6 +18,7 @@ h3{
 .home {
   background-color:black;
   width: 400;
+  display: table;
 }
 .title{
   font-size: 500%;
@@ -74,10 +75,6 @@ h3{
   width: auto;
   padding: 10px 80px 10px 80px;
   color:white;
-}
-
-.kotei{
-  display: table;
 }
 
 .memberLink{
